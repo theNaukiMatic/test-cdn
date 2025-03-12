@@ -1,3 +1,5 @@
 {
-    "tusk_ws" : "wss://dev-tusk.bebetta.in/ws"
+    "tusk_ws" : "wss://dev-tusk.bebetta.in/ws",
+    "webview_rewards_url" : "https://web-dev-01.bebetta.in",
+    "webview_rewards_version": 0
 }
