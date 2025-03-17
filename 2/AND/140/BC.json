@@ -1,11 +1,5 @@
 {
     "tusk_ws" : "wss://dev-tusk.bebetta.in/ws",
-    "webview_rewards":{
-        "url":"https://web-dev-01.bebetta.in",
-        "version":0
-    },
-    "webview_ipl":{
-        "url":"https://web-dev-01.bebetta.in",
-        "version":0
-    }
+    "webview_rewards":"https://web-dev-01.bebetta.in",
+    "webview_ipl":"https://web-dev-01.bebetta.in"
 }
