@@ -1,13 +1,14 @@
 {
-    "tusk_ws": "wss://dev-tusk.bebetta.in/ws",
-    "adUnitIds": [
-      {
-        "type": "APPLOVIN",
-        "banner": "4fd4769b97816305",
-        "mrec": "ca55818dbfe62091",
-        "interstitial": "793bf0f4f43b6fcf",
-        "rewarded": "4738193c90fcff8e",
-        "native": "2fb60931c967379b"
-      }
-    ]
-  }
+  "tusk_ws": "wss://dev-tusk.bebetta.in/ws",
+  "enableAds": true,
+  "adUnitIds": [
+    {
+      "type": "APPLOVIN",
+      "banner": "4fd4769b97816305",
+      "mrec": "ca55818dbfe62091",
+      "interstitial": "793bf0f4f43b6fcf",
+      "rewarded": "4738193c90fcff8e",
+      "native": "2fb60931c967379b"
+    }
+  ]
+}
