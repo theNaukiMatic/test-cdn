@@ -1,6 +1,7 @@
 {
   "tusk_ws": "wss://dev-tusk.bebetta.in/ws",
   "enableAds": true,
+  "gameAdIntervalSeconds":60,
   "adUnitIds": [
     {
       "enable": true,
